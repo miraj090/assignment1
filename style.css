@@ -78,3 +78,15 @@
 .div2{
     margin: 30px 0;
 }
+
+.MyInspiration{
+    margin: 90px 0;
+}
+
+.MyInspiration div {
+    text-align: center;
+}
+
+.MyInspiration div p{
+    margin: 25px 0 50px 0;
+}
