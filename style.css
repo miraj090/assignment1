@@ -1,0 +1,80 @@
+*{
+    margin: 0;
+}
+
+.banner{
+    background-image:url(assets/Hero-bg.png);
+    text-align: center;
+    padding: 30px;
+    margin-bottom: 70px;
+}
+
+.banner h1{
+    padding: 30px 0;
+    font-size: 48px;
+}
+
+.banner button{
+    margin: 30px 0;
+    padding: 18px 30px;
+    border-radius: 8px;
+    background: rgb(13, 19, 33);
+    font-size: 17px;
+    font-weight: 600;
+}
+
+.banner a{
+    text-decoration: none;
+    color: white;
+}
+
+.container{
+    margin: 0 150px;
+    
+}
+
+.whyWebDev{
+    padding: 80px 95px;
+    background: rgba(13, 19, 33, 0.02);
+    border-radius: 5px;
+}
+
+.WWDtext{
+    text-align: center;
+}
+
+.WWDtext p {
+    margin: 24px 0 48px 0;
+} 
+
+.div1 , .div2 , .div3 {
+    display: flex;
+    justify-items: center;
+    justify-content: space-between;
+    padding: 30px;
+    border-radius: 10px;
+    background-color: white;
+}
+
+.divDetails {
+    margin-top: 15px;
+}
+.divDetails p{
+    margin: 16px 0px 32px 0;
+}
+
+.divDetails button{
+    padding: 12px 25px;
+    font-size: 13px;
+    background-color: white;
+    border-radius: 5px;
+}
+
+.divDetails button a {
+    text-decoration: none;
+    color: rgb(13, 19, 33);
+} 
+
+.div2{
+    margin: 30px 0;
+}
