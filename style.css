@@ -2,6 +2,18 @@
     margin: 0;
 }
 
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    margin: 0 60px;
+}
+.navbar button {
+    color: black;
+    background-color: #fff;
+    border-radius: 10px ;
+}
+
 .banner{
     background-image:url(assets/Hero-bg.png);
     text-align: center;
@@ -37,6 +49,9 @@
     padding: 80px 95px;
     background: rgba(13, 19, 33, 0.02);
     border-radius: 5px;
+}
+.whyWebDev button:hover{
+    box-shadow: 5px 5px 10px rgb(158, 77, 158);
 }
 
 .WWDtext{
