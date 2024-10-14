@@ -90,3 +90,42 @@
 .MyInspiration div p{
     margin: 25px 0 50px 0;
 }
+
+.CTtext{
+    text-align: center;
+}
+
+.CTtext p{
+    margin: 25px 0 50px 0;
+}
+
+.cards{
+    display: flex;
+    gap: 45px;
+}
+
+.html{
+    padding: 40px;
+    border-radius: 5px;
+    background-color: lightgrey;
+}
+
+.css{
+    padding: 40px;
+    border-radius: 5px;
+    background-color: lightblue;
+}
+
+.js{
+    padding: 40px;
+    border-radius: 5px;
+    background-color: lightskyblue;
+}
+
+.cards div h1{
+    margin: 20px 0;
+}
+
+.cards div p{
+    margin: 5px 0 20px 0;
+}
